@@ -1,6 +1,6 @@
 ## Hi, I'm Marizza ✨
 
-🧠 Computer Science student at Algoma University<br/>
+🧠 Computer Science Honours Graduate<br/>
 
 
 ## 🌐 Socials:
