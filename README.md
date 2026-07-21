@@ -1,6 +1,6 @@
 ## Hi, I'm Marizza ✨
 
-🧠 Computer Science Honours Graduate<br/>
+🧠 Computer Science Honours Graduate / QA Automation Engineer<br/>
 
 
 ## 🌐 Socials:
