@@ -1,6 +1,6 @@
 ## Hi, I'm Marizza 👋
 
-🧠 QA Automation Engineer with hands-on experience testing mission-critical 
+QA Automation Engineer with hands-on experience testing mission-critical 
 airline systems for Air Canada. I build automated test frameworks in 
 Cypress and Selenium, and work across API/web testing, data validation, 
 and business requirements analysis.
@@ -14,7 +14,7 @@ Cypress · Selenium WebDriver · JIRA · Confluence · API Testing ·
 Python · JavaScript/TypeScript · SQL
 
 ### 🔗 Find me
-[LinkedIn](https://linkedin.com/in/marizza-ranasinghe-424371290) · 
+[![LinkedIn](https://linkedin.com/in/marizza-ranasinghe-424371290)] · 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mari.ranasinghe@gmail.com) 
 
 # 💻 Tech Stack:
