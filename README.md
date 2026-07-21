@@ -1,8 +1,6 @@
 ## Hi, I'm Marizza 👋
 
-🔭 I'm currently working on<br>- Automated test frameworks in Cypress for airline booking/operations systems at Arc75 (Air Canada)<br><br>👯 I'm looking to collaborate on<br>- QA automation and software engineering projects — Cypress, Selenium, Python, or full-stack builds<br><br>🤝 I'm looking for help with<br>- Growing my software engineering skills alongside test automation — data structures, algorithms, and full-stack development<br><br>🌱 I'm currently learning<br>- Software engineering fundamentals (DS&A, full-stack development) to complement my QA automation background<br><br>💬 Ask me about<br>- Test automation, Cypress, API testing, or transitioning from QA into software engineering<br><br>⚡ Fun fact<br>- I went from tutoring Advanced Excel to automating tests for airline booking systems in under a year
-
-QA Automation Engineer with hands-on experience testing mission-critical 
+**QA Automation Engineer** with hands-on experience testing mission-critical 
 airline systems for Air Canada. I build automated test frameworks in 
 Cypress and Selenium, and work across API/web testing, data validation, 
 and business requirements analysis.
@@ -14,6 +12,8 @@ University.
 ### 🧰 Core Tools
 Cypress · Selenium WebDriver · JIRA · Confluence · API Testing · 
 Python · JavaScript/TypeScript · SQL
+
+🔭 I'm currently working on<br>- Automated test frameworks in Cypress for airline booking/operations systems at Arc75 (Air Canada)<br><br>👯 I'm looking to collaborate on<br>- QA automation and software engineering projects — Cypress, Selenium, Python, or full-stack builds<br><br>🤝 I'm looking for help with<br>- Growing my software engineering skills alongside test automation — data structures, algorithms, and full-stack development<br><br>🌱 I'm currently learning<br>- Software engineering fundamentals (DS&A, full-stack development) to complement my QA automation background<br><br>💬 Ask me about<br>- Test automation, Cypress, API testing, or transitioning from QA into software engineering<br><br>⚡ Fun fact<br>- I went from tutoring Advanced Excel to automating tests for airline booking systems in under a year
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marizza-ranasinghe-424371290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mari.ranasinghe@gmail.com) 
